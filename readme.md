@@ -1,4 +1,6 @@
 THIS IS REPLENSHIPMENT INVENTORY CONTROL POLICY
+
+
 	environment:
 	1.cost evaluation:lost-sales,backlog
 	2.demand: known,distribution known, distribution unknown but i.i.d , distribution unknown
