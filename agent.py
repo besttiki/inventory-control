@@ -1,6 +1,3 @@
-
-__all__=['get_nemo','get_tiki']
-
 class BaseStock:
     def __init__(self,basestock = 0):
         """

@@ -1,7 +1,2 @@
-
-__all__=['get_nemo','get_tiki']
-def get_nemo(a,b):
-    return a+b
-
-def get_tiki(a,b):
-    return a-b
+from environment import Environment
+from agent import BaseStock
