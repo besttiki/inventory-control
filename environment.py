@@ -1,4 +1,4 @@
-import demand_model,arrive_model from auxiliary_model
+import demand_model,pipeline_model from auxiliary_model
 
 class Environment:
     """
